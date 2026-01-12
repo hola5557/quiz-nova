@@ -1,0 +1,7 @@
+{
+  "name": "QuizNova AI",
+  "description": "Interactive AI-powered quiz generator",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
